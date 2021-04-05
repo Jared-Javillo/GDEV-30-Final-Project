@@ -1,1 +1,1 @@
-Add camera.h and shader_m.h to the includes folder.
+Add LOGL to your includes folder.
